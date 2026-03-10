@@ -1,0 +1,16 @@
+# Ignore everything by default
+ *
+
+# Allow only the mobile app essentials
+!App.tsx
+!index.ts
+!app.json
+!assets/
+!assets/**
+!package.json
+!package-lock.json
+!tsconfig.json
+!eas.json
+!.easignore
+!.gitignore
+!README.md

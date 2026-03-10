@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "YSpeedify",
+    "slug": "yspeedify",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./YSpeedify Logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./YSpeedify Logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.cyver5945.yspeedify"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7cd04221-ef47-4ba0-a89c-366d67d7d436"
+      }
+    }
+  }
+}
